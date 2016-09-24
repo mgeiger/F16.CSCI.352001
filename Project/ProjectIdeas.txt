@@ -1,0 +1,13 @@
+#Project Ideas:
+Power Savings on Microcontrollers
+Differences Between Microcontrollers and Microprocessors
+RISC Processors
+Types of Instruction Sets
+Verilog or VHDL
+
+#Notes:
+Will get some sort of format
+
+#Professor Ideas:
+He likes graphic cards
+Any hardware product is okay
